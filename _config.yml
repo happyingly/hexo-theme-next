@@ -803,6 +803,8 @@ vendors:
   # https://github.com/revir/need-more-share2
   needMoreShare2:
 
+sharesdk: true
+shareSDKappkey: 264f09e47a5c6
 
 # Assets
 css: css
