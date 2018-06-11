@@ -353,7 +353,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 6b8c247cbefebee01fa8abb79096ea91
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -378,9 +378,9 @@ changyan:
 # You can get your appid and appkey from https://leancloud.cn
 # more info please open https://valine.js.org
 valine:
-  enable: false
-  appid:  # your leancloud application appid
-  appkey:  # your leancloud application appkey
+  enable: true
+  appid:  O3vAiAYF75rINQIKnfYHjDeR-gzGzoHsz # your leancloud application appid
+  appkey: o3fcqDGQRsQVJiFn4BSnKwXd # your leancloud application appkey
   notify: false # mail notifier , https://github.com/xCss/Valine/wiki
   verify: false # Verification code
   placeholder: Just go go # comment box placeholder
@@ -803,8 +803,8 @@ vendors:
   # https://github.com/revir/need-more-share2
   needMoreShare2:
 
-sharesdk: true
-shareSDKappkey: 264f09e47a5c6
+# sharesdk: true
+# shareSDKappkey: 264f09e47a5c6
 
 # Assets
 css: css
